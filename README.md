@@ -11,7 +11,7 @@ The present analysis employs a dataset from a 2014 survey that gauges the preval
 This analysis explores the factors contributing to mental health challenges in tech, and the steps employers and individuals can take to promote mental well-being. By addressing this issue, we can create a more supportive and inclusive work environment for all.
 
 ## Files
-**EDA.ipynb:** exploratory data analysis of the data i.e. understanding, cleaning, and prepping the data for analysis<br/>
+**EDA final.ipynb:** exploratory data analysis of the data i.e. understanding, cleaning, and prepping the data for analysis<br/>
 **survey.csv:** raw unprepped data.<br/>
 **final_data.csv:** final data after EDA is complete.
 
