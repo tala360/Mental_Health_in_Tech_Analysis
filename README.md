@@ -9,7 +9,7 @@ The present analysis employs a dataset from a 2014 survey that gauges the preval
 
 ## Software Used
 Two software were used in this analysis,<br/>
-**1.Jupyter Notebook:** environment to use Python for exploratory data analysis.<br/>
+**1. Jupyter Notebook:** environment to use Python for exploratory data analysis.<br/>
 **2. Tableau Public:** for analysis and visualizations.
 
 ## Files
